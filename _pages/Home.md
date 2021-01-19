@@ -1,7 +1,7 @@
 ---
 title:  "Home"
 layout: archive
-permalink: /Home/
+permalink: /
 author_profile: true
 comments: false
 #header:
