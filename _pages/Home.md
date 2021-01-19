@@ -13,5 +13,5 @@ I visit the density functional theory zoo using the most modern exchange-correla
 
 Check out a short bio about myself [here](/About/). If you want to look at what I am currently working on, check out the [Research](/Research/) page.
 
-If you want to know what I am up to, check out my Twitter feed. 
+If you want to know what I am up to, check out my Twitter [feed](https://twitter.com/PierMorgante). 
 
