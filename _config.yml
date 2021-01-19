@@ -123,6 +123,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=3A_n2scAAAAJ&hl=en"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/pierpaolo-morgante-278b64116/"
 
 # Site Footer
 footer:
