@@ -126,6 +126,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pierpaolo-morgante-278b64116/"
+    - label: "CV"
+      icon: "far fa-address-card"
+      url: "/assets/document/resume.pdf"
 
 # Site Footer
 footer:
