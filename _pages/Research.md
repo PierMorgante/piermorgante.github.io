@@ -18,6 +18,8 @@ During my Ph.D., I worked on developing new databases for DFT. I started by coll
 
 I also focused my attention towards applying DFT to solve problems in chemistry and catalysis. In our most recent collaboration with Dr. Nasri Nesnas’ [group](http://research.fit.edu/nesnas) at Florida Tech, I investigated the mechanism of the light-driven uncaging of MDNI-L-glutamate and MDNI-Acetate with ground-state DFT and time-dependent-DFT (TD-DFT) unravelling information of capital importance for the synthesis of new molecules. It can be found [here](https://www.nature.com/articles/s41598-020-79701-4).
 
+For my post-doctoral work, I am focusing my attention towards the computational investigation of vibrational optical activity.
+
 ## Chemical education.
 
 I am interested in teaching about density functional theory through real life applications to experienced users and beginners alike. In this direction, Dr. Peverati and I put together a concise guide to DFT calculations called "The Devil in the Details", which you can read (for free!) [here](https://onlinelibrary.wiley.com/doi/full/10.1002/qua.26332). If you are interested and you want to learn more, feel free to reach out to me :) 
